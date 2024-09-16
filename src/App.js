@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import DeckComponent from './components/DeckComponent';
+import DeckComponent from './components/Deck/DeckComponent';
 
 function App() {
   return (
